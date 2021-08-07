@@ -1,0 +1,6 @@
+Cemex/bin
+Cemex/obj
+*.user
+*.suo
+_ReSharper.*
+*.sln.cache
